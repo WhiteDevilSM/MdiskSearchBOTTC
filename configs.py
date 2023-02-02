@@ -9,7 +9,7 @@ class Config(object):
     API_HASH = os.getenv("API_HASH", "d4053a01b1c02f705c45a1e30496d11e")
     BOT_TOKEN = os.getenv("BOT_TOKEN", "6199157936:AAG6cemg4C_bW4sDNEe8nCU5jxTUQX91x6I")
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "lazydeveloperr")
-    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOKkBu09s73VLGQQnQZp81QLu_hvbfV9yEuhmccZdjyWtbbXB-m2ujGrZ8HY9RymfBfBDrrZqChCCLSXWhZ54D8FCVpkiAO1GI-c85ZDExvGUu_3g-QdoqL7Kf-K6tK4I-u8CmeNmQKXLO-jPS89BphFytogqFKYCNvv7Kw2WOlbcEzsijo5xFYFWmVsccKPGdgGL9xvWTB-51uH36joGzuBnT6TGMftMGmUK5DQQF5i6Lk2_0EknKBN5Q3YpP_JNiOl9PntcvYHPUkgecupU2m5DKi5TMwHgI5ohFMezIrHH0NNG63AHYf35UGSienCWbwG8Csn8VceLQMnXrKZcRbIy-McIY=")
+    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "BQCvm6oAoXEGOh6e_NpAV4my4fpFXW6g8UcUcqTlK2OJVKiMrSM91gxOfkchWtQbsvkKRkUnqy_YhlXUQ9Ce_FC68TRDe8zPHJtlU32oFntpr2wIDIUR_AaBq_3ho0Mu4jg3tN7c7BBeXg9bqFJ7SybCLLyTQaxsO5dmeFtqa6JQhMydZO8XXr-Rl52hVwhSxqPEeSolM21UEl4EqgmwO5-Z26aY6geYZosxShFBZqyEOMDhDrO25AiUcJpp4-yG2uzRWUs3p-vj8y_pGP9oUW3HFbcC797mz4AQNubYPJPQey1oO0PU8dWEb2vC-mjwvfWFUOR18LW0-wkbqezwrSAjLimDUgAAAABjBx6-AA")
 #   Channel id where your posts are stored.
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001628019485")) 
     BOT_USERNAME = os.getenv("BOT_USERNAME", "SM_link_search_bot")
@@ -31,14 +31,14 @@ Just Type Movie name in pm or group 🦋**""" )
 
 ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏ ᴄʟɪᴄᴋ ᴏɴ ʜᴇʟᴘ ✅""" )
     UPDATES_CHANNEL = os.getenv("UPDATES_CHANNEL", " -1001601591799")
-    DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://lazy:lazy@lzyxdev786.lpvunddl5.mongodb.net/eieokxk?redddltryWrites=true&w=majority")
+    DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://Sachin123:Sachin123@cluster0.jfiixrn.mongodb.net/?retryWrites=true&w=majority")
     LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", "-1001148047176"))
     RESULTS_COUNT = int(os.getenv("RESULTS_COUNT", 20))
     BROADCAST_AS_COPY = os.getenv("BROADCAST_AS_COPY", "True")
     UPDATES_CHANNEL_USERNAME = os.getenv("UPDATES_CHANNEL_USERNAME", "SM_Updates_1")
     FORCE_SUB = os.getenv("FORCE_SUB", "True")
     AUTO_DELETE_TIME = int(os.getenv("AUTO_DELETE_TIME", 120))
-    MDISK_API = os.getenv("MDISK_API", "W4VnYiwHUevmAutlFmkW")
+    MDISK_API = os.getenv("MDISK_API", "iAhtM23GQVNU6K3N9mrS")
     VERIFIED_TIME  = int(os.getenv("VERIFIED_TIME", "31"))
     ABOUT_BOT_TEXT = os.getenv("ABOUT_TEXT", """I ᴏɴʟʏ ꜱʜᴀʀᴇ ᴛʜᴇ ᴘᴏꜱᴛ ꜰʀᴏᴍ ᴘᴇᴏᴘʟᴇ'ꜱ ᴄʜᴀɴɴᴇʟ! 
 
